@@ -1,5 +1,5 @@
 # dashboard
-![alt text](https://github.com/matheuspaula19/dashboard/blob/master/print.png?raw=true)
+![alt text](https://github.com/matheuspaula19/dashboard/blob/master/print.PNG?raw=true)
 
 > Dashboard in vue.js
 
